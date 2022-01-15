@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="74f719f3-1332-4c4b-85e4-4a545276eaf6" name="data source Mapping">
+      <data-sources db="59a940bc-8eeb-4bbd-8eec-ebe0deed4315" ddl="548fb3a0-aa3a-4035-acb6-ef1b5adc4a79" />
+      <scope>
+        <node kind="schema" qname="rentacar" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="548fb3a0-aa3a-4035-acb6-ef1b5adc4a79" />
+          <option name="name" value=" data source" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$" />
+            </array>
+          </option>
+          <option name="group" value="test" />
+        </State>
+        <State>
+          <option name="id" value="94103b53-6c23-4519-96a1-eba50d825373" />
+          <option name="name" value="DDL data source" />
+          <option name="urls">
+            <array />
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

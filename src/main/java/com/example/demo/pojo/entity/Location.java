@@ -70,6 +70,8 @@ public class Location {
     public void setAddress(String address) {
         this.address = address;
     }
+    
+
 //
 //    public List<Vehicles> getVehicles() {
 //        return vehicles;
